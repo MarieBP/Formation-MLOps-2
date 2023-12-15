@@ -1,0 +1,23 @@
+# Data manipulation
+pandas==1.5.2
+pyarrow==10.0.1
+
+# Model manipulation
+scikit-learn==1.2.2
+joblib==1.2.0
+
+# Data base
+sqlalchemy==1.4.46
+psycopg2-binary==2.9.5
+
+# App
+streamlit==1.23.1
+
+# Airflow
+apache-airflow==2.7.3
+
+# Mlflow
+mlflow==2.4.1
+
+werkzeug==2.2.2
+protobuf==3.20.3
